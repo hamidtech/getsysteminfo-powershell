@@ -1,0 +1,1 @@
+ps2exe .\getsysteminfo.ps1 .\systeminfo.exe -iconFile .\favicon.ico
