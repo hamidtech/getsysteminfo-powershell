@@ -49,7 +49,7 @@ ps2exe .\getsysteminfo.ps1 .\systeminfo.exe -iconFile .\favicon.ico
 
 ## Support
 
-For any queries or issues, please open an issue in this repository or contact [hamid1375jamali@gmail](hamid1375jamali@gmail.com).
+For any queries or issues, please open an issue in this repository or contact [hamid1375jamali@gmail](hamid1375jamali@gmail.com) :)
 
 ## License
 
