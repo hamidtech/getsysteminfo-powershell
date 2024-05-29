@@ -45,10 +45,11 @@ tou can use this script to convert script file to exe file
 ```powershell
 ps2exe .\getsysteminfo.ps1 .\systeminfo.exe -iconFile .\favicon.ico
 ```
+** Don't forget install " ps2exe " on powershell by admin privilege **
 
 ## Support
 
-For any queries or issues, please open an issue in this repository or contact [mailto:hamid1375jamali@gmail](hamid1375jamali@gmail).com.
+For any queries or issues, please open an issue in this repository or contact [hamid1375jamali@gmail](hamid1375jamali@gmail.com).
 
 ## License
 
